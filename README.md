@@ -3,7 +3,7 @@
     The experiment evaluations show that our model achieves 21.22 Rouge-L and 17.10 BLEU. We showed that the attention-based model outperforms the extractive methods, though informal text summarization remains to be a challenge.
 ## Datasets
 
-The Enron Corpus were used in this project. It is parsed by the `Parsing Enron Data.ipynb` under the notebook folder. The parsing outputs a CSV file that contains subject line and first email body. 
+The Enron Corpus were used in this project. The original dataset can be downloaded at https://www.cs.cmu.edu/~enron/. It is parsed by the `Parsing Enron Data.ipynb` under the notebook folder. The parsing outputs a CSV file that contains subject line and first email body. 
 
 ## Baseline Model
 
