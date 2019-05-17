@@ -1,12 +1,6 @@
 # NLU-email-title
-some github sources
-
-attention based summarization
-https://github.com/facebookarchive/NAMAS
-
-info retriv
-https://github.com/gr33ndata/irlib
-
+  Informal and noisy text summarization is a meaningful task with practical use potentials. In this project, we adopted the data-driven attention-based neural model on the task to generate email titles. 
+    The experiment evaluations show that our model achieves 21.22 Rouge-L and 17.10 BLEU. We showed that the attention-based model outperforms the extractive methods, though informal text summarization remains to be a challenge.
 ## Datasets
 
 The Enron Corpus were used in this project. It is parsed by the `Parsing Enron Data.ipynb` under the notebook folder. The parsing outputs a CSV file that contains subject line and first email body. 
