@@ -2,3 +2,5 @@ data/
 .idea/
 etl/__pycache__/
 notebooks/.ipynb_checkpoints/
+abstractive-text-summarization/
+notebooks/.vector_cache/
