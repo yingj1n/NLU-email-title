@@ -1,5 +1,10 @@
 data/
 .idea/
+output/
+.ipynb_checkpoints/
+__pycache__/
+abstractive-text-summarization/
+annotated_encoder_decoder_for_Enron.ipynb
 etl/__pycache__/
 notebooks/.ipynb_checkpoints/
 abstractive-text-summarization/
